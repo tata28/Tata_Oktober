@@ -1,0 +1,40 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	background-color: brown;
+}
+
+#navbar{
+	position:absolute;
+	background-color: #e6e6e6;
+	width:99%;
+	height:80px;
+	color:black;
+	font-size:14pt;
+	font-family: Clarendon Lt BT;
+	
+}
+
+#navbar ul{
+	margin-left: 90px;
+}
+#navbar li{
+	list-style-type: none;
+	float:left;
+	padding-left: 150px;
+}
+
+#title{
+	background-color:  rgba(0,0,0,0.0) ;
+	position:absolute;
+	margin-left: 440px;
+	margin-top: 50px;
+	color:black;
+	font-family: Clarendon Lt BT;
+	font-size: 45pt;
+	padding-left: 20px;
+	padding-bottom: -30px;
+}
+
