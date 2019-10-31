@@ -38,3 +38,15 @@ body{
 	float:center;
 }
 
+.footer{
+	height:70px;
+	background-color: #660000;
+	color: white;
+	margin-top: 200px;
+	padding:20px;
+	text-align: center;
+	font-family: Clarendon Lt BT;
+	font-size: 14pt;
+}
+
+
